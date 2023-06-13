@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohd Siddiq</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Mobile app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdsiddiq-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsiddiq-cloud" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java**
 
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/mohd-siddiq-165a05212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-siddiq-165a05212" height="30" width="40" /></a>
 <a href="https://instagram.com/mohd____siddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd____siddiq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codersiddiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codersiddiq" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohd_siddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohd_siddiq" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/mohd_siddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohd_siddiq" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/mohd_siddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohd_siddiq" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/siddiq9950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siddiq9950" height="30" width="40" /></a>
 </p>
